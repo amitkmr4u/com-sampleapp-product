@@ -1,0 +1,23 @@
+{
+	"orders": [{
+		"id": 100,
+		"date": "2022-11-25",
+		"orderStatus": "cloths",
+		"email": "abc@email.com",
+		"product": [{
+				"productId": 100,
+				"productName": "shirt",
+				"productCategory": "cloths",
+				"rating": "good",
+				"price": 150
+			},
+			{
+				"productId": 101,
+				"productName": "T-shirt",
+				"productCategory": "cloths",
+				"rating": "bad",
+				"price": 500
+			}
+		]
+	}]
+}

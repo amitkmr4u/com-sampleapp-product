@@ -1,0 +1,31 @@
+{
+	"products": [{
+			"productId": 100,
+			"productName": "shirt",
+			"productCategory": "cloths",
+			"rating": "good",
+			"price": 150
+		},
+		{
+			"productId": 101,
+			"productName": "T-shirt",
+			"productCategory": "cloths",
+			"rating": "bad",
+			"price": 500
+		},
+		{
+			"productId": 1002,
+			"productName": "jeans",
+			"productCategory": "cloths",
+			"rating": "average",
+			"price": 1520
+		},
+		{
+			"productId": 104,
+			"productName": "shoes",
+			"productCategory": "footwear",
+			"rating": "bad",
+			"price": 1000
+		}
+	]
+}
